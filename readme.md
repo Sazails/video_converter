@@ -11,3 +11,10 @@ The program prompts the user to select a `.mkv` file using a file explorer, and 
 ## Output
 
 The program provides verbose information during the conversion process and prints the input and output file paths upon completion.
+
+## Python environment setup
+1. Install Python3.10, I recommend through Microsoft Store
+2. Launch terminal within downloaded folder
+3. python3 -m venv venv
+4. pip3.10 install -r .\requirements.txt
+
